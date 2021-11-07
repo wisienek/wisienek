@@ -37,10 +37,6 @@ In my free time I like to;
 ## Some stats
 
 <a href="https://github.com/wisienek/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wisienek&show_icons=true&theme=react&hide=prs,issues&count_private=true" />
-</a>
-
-<a href="https://github.com/wisienek/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisienek&layout=compact&theme=react&langs_count=8" />
 </a>
 
