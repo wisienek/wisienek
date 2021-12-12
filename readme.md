@@ -39,6 +39,3 @@ In my free time I like to;
 <a href="https://github.com/wisienek/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisienek&layout=compact&theme=react&langs_count=8" />
 </a>
-
-<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisienek)](https://github.com/wisienek/github-readme-stats) -->
-
