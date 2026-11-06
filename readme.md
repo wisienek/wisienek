@@ -104,12 +104,7 @@ I like systems that stay boring in production and interesting to design.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wisienek&theme=tokyonight&hide_border=true" alt="streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=wisienek&theme=tokyonight&hide_border=true" alt="streak" height="170" />
 
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 </div>
