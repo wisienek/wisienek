@@ -1,41 +1,118 @@
-### Hi, I'm Miłosz or Wisienek 🍒
+<div align="center">
 
-I've graduated from one of the best IT High Schools in the country, and I am currently studying **Programing and Designing games** in *Collegium Da Vinci*.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Miłosz%20%E2%80%A2%20Wisienek%20%F0%9F%8D%92&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Fullstack%20Developer%20%C2%B7%20Backend%20at%20heart&descSize=18&descAlignY=60" alt="header" />
 
----
-
-In my free time I like to;
-- 🎮 play games 🃏
-- 🎸 learn various instruments
-- 🍜 taste different foods
-- 🥋 practice karate
-- 🎥 watch every movie there is
-- 🛠 code...
-
-## What technologies do I use?
-
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="eclipse" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/eclipseide.svg" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/java.svg" />
-<img align="left" alt="c++" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/cplusplus.svg" />
-<img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
-
-<br/>
-<br/>
-
----
-
-## Some stats
-
-<a href="https://github.com/wisienek/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisienek&layout=compact&theme=react&langs_count=8" />
+<a href="https://github.com/wisienek">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E8365D&center=true&vCenter=true&width=560&lines=Building+production-grade+Node.js+systems;TypeScript+%E2%80%A2+NestJS+%E2%80%A2+tRPC+%E2%80%A2+Kafka+%E2%80%A2+Temporal;Poznań%2C+Poland+%F0%9F%87%B5%F0%9F%87%B1" alt="typing" />
 </a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/wisienek/"><img src="https://img.shields.io/badge/LinkedIn-wisienek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=wisienek&style=for-the-badge&color=E8365D&label=PROFILE+VIEWS" alt="views" />
+
+</div>
+
+---
+
+## 👋 About
+
+I build backend-heavy, production-grade systems in **Node.js** — event-driven architectures, workflow orchestration, and clean domain-driven code.
+I like systems that stay boring in production and interesting to design.
+
+Away from the keyboard:
+🎮 games &nbsp;·&nbsp; 🎸 instruments &nbsp;·&nbsp; 🍜 food &nbsp;·&nbsp; 🥋 karate &nbsp;·&nbsp; 🎥 movies &nbsp;·&nbsp; 🛠 and… more code
+
+---
+
+## 🧰 Tech I use
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,postgres,mysql,redis,kafka,docker&perline=9" alt="core stack" />
+
+**Cloud & tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,githubactions,git,github,vscode&perline=8" alt="cloud and tooling" />
+
+**Also worked with**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,cpp&perline=7" alt="also" />
+
+</div>
+
+> Day to day: **TypeScript · NestJS · tRPC · WebSockets · Kafka · Temporal · Keycloak · MedusaJS**
+
+---
+
+## 🗺️ Career timeline
+
+<table>
+  <tr>
+    <td width="170" align="right" valign="top"><b>Jul 2026 – now</b><br/><sub>🟢 current</sub></td>
+    <td width="30" align="center" valign="top">●<br/>│<br/>│<br/>│</td>
+    <td valign="top">
+      <b>Senior Fullstack Developer</b> · T-Mobile Polska<br/>
+      <sub>Hybrid · Warsaw</sub><br/>
+      Working on large-scale, customer-facing systems as a senior engineer.
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="right" valign="top"><b>Apr 2025 – May 2026</b><br/><sub>1 yr 2 mo</sub></td>
+    <td width="30" align="center" valign="top">●<br/>│<br/>│<br/>│</td>
+    <td valign="top">
+      <b>Backend Developer</b> · Rigby<br/>
+      <sub>Remote · Self-employed</sub><br/>
+      Built Medusa.js core modules, a distributed data hub on Encore, and composable multi-vendor marketplace logic.
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="right" valign="top"><b>Apr 2023 – Apr 2025</b><br/><sub>2 yrs 1 mo</sub></td>
+    <td width="30" align="center" valign="top">●<br/>│<br/>│<br/>│</td>
+    <td valign="top">
+      <b>Full-stack Developer</b> · MeteoTrack<br/>
+      <sub>Remote · Freelance</sub><br/>
+      Led the AWS → GCP migration, cut deploy times by up to 60% with new CI/CD, and designed a role-based security system.
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="right" valign="top"><b>Nov 2021 – Apr 2024</b><br/><sub>2 yrs 6 mo</sub></td>
+    <td width="30" align="center" valign="top">●<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;</td>
+    <td valign="top">
+      <b>Backend Developer</b> · UIG Studio<br/>
+      <sub>Kraków</sub><br/>
+      Backends in TypeScript, SQL, Docker and Python plus AWS/Terraform delivery for projects like Everdome and Easyworq.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<a href="https://github.com/wisienek">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wisienek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+</a>
+<a href="https://github.com/wisienek">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisienek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=wisienek&theme=tokyonight&hide_border=true" alt="streak" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wisienek&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
+</div>
